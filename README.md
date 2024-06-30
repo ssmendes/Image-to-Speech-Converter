@@ -18,4 +18,4 @@ Projeto que reconhece e extrai texto da imagem
  ### Observação
  - Se quiser que o texto extraído fique em português (com acentos, cedilha etc), é necessário baixar o arquivo [acesse aqui](https://github.com/tesseract-ocr/tessdata/blob/main/por.traineddata), acessar a pasta do Tesseract-OCR e colar dentro da pasta tessdata
  - No código adicionar `lang="por"` em `texto = pytesseract.image_to_string(imagem, lang="por")`
- - Para ver o projeto funcionando: 
+ - Para ver o projeto funcionando [cliqueaqui](https://www.linkedin.com/posts/stellasiqueira_fala-galera-tudo-bem-pra-n%C3%A3o-perder-o-activity-7213329433586245632-n30X?utm_source=share&utm_medium=member_desktop)
